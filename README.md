@@ -20,4 +20,4 @@ Explanation is above in the "comment" string.
 
 You can test the how the color will look using [this modified version of the game](https://github.com/charles0830/TowerJumper/issues/24#issuecomment-452265840)
 
-
+<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
